@@ -1,0 +1,34 @@
+
+.bg>.shade {
+    width:100%;
+    height:100%;
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    top:0;
+    left: 0;
+  }
+.bgtxt{
+    position: absolute;
+    text-align: center;
+    color: white;
+    z-index: 5;
+   
+  top: 56%;
+  left: 44%;
+  transform: translate(-42%, -42%);
+}
+.sbar {
+    position: absolute;
+    z-index: 5;
+    top: 65%;
+    left: 44%;
+    transform: translate(-42%, -42%);
+}
+.e2ele 
+{  
+    height: 500px;;
+}
+.e2txt {
+  text-align: center;
+
+}
